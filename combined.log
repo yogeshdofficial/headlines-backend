@@ -1,0 +1,41 @@
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":1,"service":"user-service"}
+{"level":"info","message":1}
+{"level":"info","message":1}
+{"a":1,"level":"info","message":1}
+{"level":"info","message":1}
+{"level":"info","message":1}
+{"level":"error","message":1}
+{"level":"info","message":1}
+{"level":"error","message":1}
+{"level":"info","message":1}
+{"level":"error","message":1}
+{"level":"info","message":1}
+{"level":"error","message":1}
+{"level":"info","message":1}
+{"level":"error","message":1}
+{"level":"info","message":1,"timestamp":"2025-02-19T17:57:32.011Z"}
+{"level":"error","message":1,"timestamp":"2025-02-19T17:57:32.013Z"}
+{"level":"info","message":1,"timestamp":"2025-02-19T17:57:56.009Z"}
+{"level":"error","message":1,"timestamp":"2025-02-19T17:57:56.011Z"}
+{"level":"info","message":1}
+{"level":"error","message":1}
+{"level":"info","message":"http://feeds.bbci.co.uk/news/world/rss.xml ✅"}
+{"level":"info","message":"https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en ✅"}
+{"level":"info","message":"https://www.reddit.com/r/worldnews/.rss ✅"}
+{"level":"info","message":"http://rss.sciam.com/sciam/60secsciencepodcast ✅"}
+{"level":"info","message":"https://feeds.bbci.co.uk/news/science_and_environment/rss.xml ✅"}
+{"level":"info","message":"https://reddit.com/r/science/.rss ✅"}
+{"level":"info","message":"https://news.ycombinator.com/rss ✅"}
+{"level":"info","message":"https://www.theverge.com/rss/index.xml ✅"}
+{"level":"info","message":"https://www.cnet.com/rss/news/ ✅"}
+{"level":"info","message":"creating folder"}
+{"level":"info","message":"http://feeds.bbci.co.uk/news/world/rss.xml ✅"}
+{"level":"info","message":"https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en ✅"}
+{"level":"info","message":"https://www.reddit.com/r/worldnews/.rss ✅"}
+{"level":"info","message":"http://rss.sciam.com/sciam/60secsciencepodcast ✅"}
+{"level":"info","message":"https://feeds.bbci.co.uk/news/science_and_environment/rss.xml ✅"}
+{"level":"info","message":"https://reddit.com/r/science/.rss ✅"}
+{"level":"info","message":"https://news.ycombinator.com/rss ✅"}
+{"level":"info","message":"https://www.theverge.com/rss/index.xml ✅"}
+{"level":"info","message":"https://www.cnet.com/rss/news/ ✅"}
