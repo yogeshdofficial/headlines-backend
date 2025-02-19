@@ -15,10 +15,8 @@ jobs:
         uses: oven-sh/setup-bun@v2
       - name: install deps
         run: bun install
-      - name: build
-        run: bun run build
       - name: run
-        run: bun run run
+        run: bun src/index.ts
       - name: commit feed
         run: |
           git config user.name github-actions
